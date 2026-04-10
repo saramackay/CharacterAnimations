@@ -665,7 +665,7 @@ Animator:
   m_GameObject: {fileID: 1842034559}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 8ad13888b57c4414b9f830fd493fa44b, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
@@ -691,7 +691,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   moveSpeed: 3.5
   rotationSpeed: 10
-  animator: {fileID: 0}
+  animator: {fileID: 1842034561}
   speedParam: Speed
   animDampTime: 0.1
 --- !u!143 &1842034563
